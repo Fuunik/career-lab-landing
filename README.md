@@ -42,7 +42,8 @@ career-lab-landing/
 
 **Главный экран (hero)**
 
-![Hero section](screenshots/hero-section.png)
+<img width="1904" height="941" alt="image" src="https://github.com/user-attachments/assets/7a455b12-2414-4e25-bcb9-21f42f49167a" />
+
 
 **Блок тарифа**
 
