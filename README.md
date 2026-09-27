@@ -40,14 +40,34 @@ career-lab-landing/
 
 ## Интерфейс
 
-**Главный экран (hero)**
+**Главный экран**
 
 <img width="1904" height="941" alt="image" src="https://github.com/user-attachments/assets/7a455b12-2414-4e25-bcb9-21f42f49167a" />
 
+**Что внутри**
+
+<img width="1901" height="939" alt="image" src="https://github.com/user-attachments/assets/32943117-0f1d-40f1-81a2-7cb80f47d412" />
+
+**Не теория**
+
+<img width="1900" height="934" alt="image" src="https://github.com/user-attachments/assets/9f2ceda1-0fcd-41bb-9557-243816880552" />
+
+**Примеры**
+
+<img width="1900" height="939" alt="image" src="https://github.com/user-attachments/assets/c12958d6-7b55-4a93-ae3f-f1c24d5e85ee" />
+
+**Для кого**
+
+<img width="1898" height="634" alt="image" src="https://github.com/user-attachments/assets/7c6f651d-03c4-4107-b4d3-c52d50fd98b3" />
 
 **Блок тарифа**
 
-![Pricing section](screenshots/pricing-section.png)
+<img width="1903" height="887" alt="image" src="https://github.com/user-attachments/assets/ad1fc6d0-7773-4fa8-b13e-29f1a0d0e4ce" />
+
+**Вопросы**
+
+<img width="1903" height="943" alt="image" src="https://github.com/user-attachments/assets/6908a04d-2e32-4c52-a432-a714cac3f63b" />
+
 
 ## Запуск проекта
 
