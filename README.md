@@ -34,7 +34,6 @@ CAREER LAB — лендинг, разработанный как посадоч�
 career-lab-landing/
 ├─ index.html         # разметка страницы
 ├─ styles.css         # стили и адаптивность
-├─ screenshots/        # изображения для README
 └─ README.md
 ```
 
